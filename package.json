@@ -1,0 +1,10 @@
+{
+    "name": "podHub",
+    "description": "podHub",
+    "version": "0.0.1",
+    "private": true,
+    "dependencies": {
+        "opmlparser": "*",
+        "mongoose": "*"
+    }
+}

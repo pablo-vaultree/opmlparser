@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+    <head>
+        <title>Downcast Podcasts</title>
+    </head>
+    <body>
+        <outline text="WeRgeeks.net - blog e podcast de tecnologia, humor, entretenimento e variedades geeks! » Podcast Feed" type="rss" title="WeRgeeks.net - blog e podcast de tecnologia, humor, entretenimento e variedades geeks! » Podcast Feed" xmlUrl="http://www.redegeek.com.br/?feed=podcast" htmlUrl="http://wergeeks.net" />
+        <outline text="Vida Fodona » Podcast Feed" type="rss" title="Vida Fodona » Podcast Feed" xmlUrl="http://fubap.org/vidafodona/?feed=podcast" htmlUrl="http://fubap.org/vidafodona" />
+        <outline text="This Developer&amp;apos;s Life" type="rss" title="This Developer&amp;apos;s Life" xmlUrl="http://feeds.feedburner.com/ThisDevelopersLife" htmlUrl="http://thisdeveloperslife.com" />
+        <outline text="That Is Veggie Bacon!" type="rss" title="That Is Veggie Bacon!" xmlUrl="http://feeds.feedburner.com/ThatIsVeggieBacon" htmlUrl="http://thatisveggiebacon.wordpress.com" />
+        <outline text="SpinOff.com.br » SpinOff Podcast" type="rss" title="SpinOff.com.br » SpinOff Podcast" xmlUrl="http://feeds.feedburner.com/SpinOffTvSeriesPodcast" htmlUrl="http://www.spinoff.com.br" />
+        <outline text="RapaduraCast Plus" type="rss" title="RapaduraCast Plus" xmlUrl="http://feeds.feedburner.com/rapaduracastplus" htmlUrl="http://www.cinemacomrapadura.com.br/rapaduracast/?cat=884" />
+        <outline text="RapaduraCast" type="rss" title="RapaduraCast" xmlUrl="http://feeds.feedburner.com/rapaduracast" htmlUrl="http://www.cinemacomrapadura.com.br/rapaduracast" />
+        <outline text="Quem te comentou isto" type="rss" title="Quem te comentou isto" xmlUrl="http://quemtecomentou.libsyn.com/rss" htmlUrl="http://quemtecomentou.libsyn.com" />
+        <outline text="PoOOoOooODCAST!" type="rss" title="PoOOoOooODCAST!" xmlUrl="http://feeds.feedburner.com/poooooooodcast" htmlUrl="http://www.judao.com.br" />
+        <outline text="Podcast Seriáticos &amp; Walking Cast" type="rss" title="Podcast Seriáticos &amp; Walking Cast" xmlUrl="http://feeds.feedburner.com/podcastseriaticos" htmlUrl="http://seriaticos.libsyn.com" />
+        <outline text="Pipoca e Nanquim &gt;&gt; Podcast" type="rss" title="Pipoca e Nanquim &gt;&gt; Podcast" xmlUrl="http://feeds.feedburner.com/pipocaenanquimpodcast" htmlUrl="http://www.pipocaenanquim.com.br" />
+        <outline text="Perdidos no Ar" type="rss" title="Perdidos no Ar" xmlUrl="http://feeds.feedburner.com/podcastperdidos" htmlUrl="http://www.perdidosnoar.com.br" />
+        <outline text="Os Poeta - Os Poeta" type="rss" title="Os Poeta - Os Poeta" xmlUrl="http://ospoeta.com.br/?feed=podcast" htmlUrl="http://ospoeta.com.br" />
+        <outline text="omelete" type="rss" title="omelete" xmlUrl="http://feeds.feedburner.com/soundcloud/HgFV" htmlUrl="http://www.omelete.com.br" />
+        <outline text="Nerdcast" type="rss" title="Nerdcast" xmlUrl="http://jovemnerd.com.br/categoria/nerdcast/feed/" htmlUrl="http://jovemnerd.com.br" />
+        <outline text="Mitografias » Papo Lendario" type="rss" title="Mitografias » Papo Lendario" xmlUrl="http://www.mitografias.com.br/category/podcast/papo-lendario-podcast/feed/" htmlUrl="http://www.mitografias.com.br" />
+        <outline text="Melhores do Mundo » Podcast" type="rss" title="Melhores do Mundo » Podcast" xmlUrl="http://feeds.feedburner.com/MdMPodcast" htmlUrl="http://melhoresdomundo.net" />
+        <outline text="Matando Robôs Gigantes" type="rss" title="Matando Robôs Gigantes" xmlUrl="http://jovemnerd.com.br/categoria/matando-robos-gigantes/feed/" htmlUrl="http://jovemnerd.com.br" />
+        <outline text="Mangatologia » Podcasts" type="rss" title="Mangatologia » Podcasts" xmlUrl="http://feeds.feedburner.com/mangatologia" htmlUrl="http://mangatologia.wordpress.com" />
+        <outline text="JCast » Podcast Feed" type="rss" title="JCast » Podcast Feed" xmlUrl="http://jcast.com.br/?feed=podcast" htmlUrl="http://jcast.com.br" />
+        <outline text="Hype Machine Radio Show" type="rss" title="Hype Machine Radio Show" xmlUrl="http://hypem.com/feed/radio/show/1/feed.xml" htmlUrl="http://hypem.com/radio" />
+        <outline text="http://www.cienciapop.com.br/feeds" type="rss" title="http://www.cienciapop.com.br/feeds" xmlUrl="http://www.cienciapop.com.br/feeds/" htmlUrl="(null)" />
+        <outline text="Histórica | Visão Histórica Podcast » Podcast Feed" type="rss" title="Histórica | Visão Histórica Podcast » Podcast Feed" xmlUrl="http://historica.com.br/?feed=podcast" htmlUrl="http://historica.com.br" />
+        <outline text="Hanselminutes" type="rss" title="Hanselminutes" xmlUrl="http://feeds.feedburner.com/Hanselminutes" htmlUrl="http://www.hanselminutes.com" />
+        <outline text="Grok Podcast" type="rss" title="Grok Podcast" xmlUrl="http://www.grokpodcast.com/feed/" htmlUrl="http://www.grokpodcast.com" />
+        <outline text="Games on the Rocks - edição MP3" type="rss" title="Games on the Rocks - edição MP3" xmlUrl="http://podcasts.ig.com.br/podcasts/games-on-the-rocks_audio-generico.xml" htmlUrl="http://arena.ig.com.br/especiais/podcasts/" />
+        <outline text="Fronteiras da Ciência" type="rss" title="Fronteiras da Ciência" xmlUrl="http://www.if.ufrgs.br/%7Earenzon/fronteirasdaciencia.xml" htmlUrl="http://frontdaciencia.ufrgs.br/" />
+        <outline text="English Podcast" type="rss" title="English Podcast" xmlUrl="http://feeds.feedburner.com/EnglishExpertsPodcast" htmlUrl="http://www.englishexperts.com.br" />
+        <outline text="Decodificando" type="rss" title="Decodificando" xmlUrl="http://feeds.feedburner.com/decodificando_podcast" htmlUrl="http://www.decodificando.com.br" />
+        <outline text="Cinecast" type="rss" title="Cinecast" xmlUrl="http://feeds.feedburner.com/com/cinecast" htmlUrl="supernovo.net/oscinefilos/cinecast/" />
+        <outline text="Castalio Podcast" type="rss" title="Castalio Podcast" xmlUrl="http://feeds.feedburner.com/CastalioPodcastMP3" htmlUrl="http://www.castalio.info" />
+        <outline text="Braincast" type="rss" title="Braincast" xmlUrl="http://feeds.feedburner.com/braincastmp3" htmlUrl="http://www.brainstorm9.com.br" />
+        <outline text="Atrás do Front" type="rss" title="Atrás do Front" xmlUrl="http://caosordenado.com/atrasdofront.xml" htmlUrl="http://atrasdofront.tumblr.com" />
+        <outline text="AntiCast" type="rss" title="AntiCast" xmlUrl="http://feed.anticast.com.br" htmlUrl="http://www.brainstorm9.com.br/anticast/" />
+        <outline text="Anikenkai » Anikencast" type="rss" title="Anikenkai » Anikencast" xmlUrl="http://feeds.feedburner.com/Anikencast" htmlUrl="http://www.genkidama.com.br/anikenkai" />
+    </body>
+</opml>
